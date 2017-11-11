@@ -12,7 +12,7 @@
                                     <item name="children" xsi:type="array">
                                         <item name="cms-block" xsi:type="array">
                                             <item name="component" xsi:type="string">DaanBeverdam_CheckoutBlockProvider/js/view/cms-block</item>
-                                            <item name="sortOrder" xsi:type="string">1</item>
+                                            <item name="sortOrder" xsi:type="string">0</item>
                                         </item>
                                     </item>
                                 </item>

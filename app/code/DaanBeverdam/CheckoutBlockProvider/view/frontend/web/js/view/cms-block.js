@@ -2,7 +2,7 @@ define(
     [
         'jquery',
         'ko',
-        'Magento_Checkout/js/view/shipping'
+        'uiComponent'
     ],
     function(
         $,
