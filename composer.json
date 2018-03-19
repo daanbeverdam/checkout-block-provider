@@ -2,7 +2,7 @@
     "name": "daanbeverdam/checkout-block-provider",
     "description": "Provides a CMS block to the knockout checkout template.",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
         {
             "name": "Daan Beverdam",
