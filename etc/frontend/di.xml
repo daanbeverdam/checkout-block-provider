@@ -10,7 +10,10 @@
     </type>
     <type name="DaanBeverdam\CheckoutBlockProvider\Model\ConfigProvider">
         <arguments>
-            <argument name="blockId" xsi:type="string">checkout_block</argument>
+            <argument name="blockIds" xsi:type="array">
+                <item name="checkout_block" xsi:type="string">checkout_block</item>
+                <!--item name="another_block" xsi:type="string">another_block</item-->
+            </argument>
         </arguments>
     </type>
 </config>
